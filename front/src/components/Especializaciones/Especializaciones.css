@@ -1,0 +1,22 @@
+.esp{
+    color: rgb(44, 86, 151);
+    text-decoration: rgb(44, 86, 151);
+}
+
+.esp:hover{
+    text-decoration: none;
+    color: white;
+    background-color: #6d76f7;
+    border-radius: 4px;
+    transition: all 0.2 ease-out;
+}
+
+.esp-link{
+    color: white;
+    text-decoration: rgb(44, 86, 151);
+}
+
+.esp-link:hover{
+    text-decoration: none;
+    color: white;
+}

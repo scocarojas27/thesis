@@ -1,0 +1,8 @@
+.feed{
+    z-index: 50;
+}
+.position{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
